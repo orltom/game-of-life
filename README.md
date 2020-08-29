@@ -1,3 +1,6 @@
+[![MIT License](https://raw.githubusercontent.com/orltom/game-of-life/master/.github/license.svg?sanitize=true)](https://github.com/orltom/ansible-workstation-setup/blob/master/LICENSE)
+
+
 # game-of-life
 code retreat [game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) challenge 
 
