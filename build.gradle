@@ -1,0 +1,17 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+group 'com.orltom.coderetreat'
+version '0.1-SNAPSHOT'
+
+sourceCompatibility = 1.8
+
+repositories {
+	mavenCentral()
+}
+
+mainClassName = 'com.orltom.coderetreat.gameoflife.Game'
+
+run {
+	main = project.getProperty('mainClassName')
+}
